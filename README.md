@@ -11,4 +11,6 @@ Contact: mohamad.bazzi@ebc.uu.se
 
 Last updated:
 
-Code Files included: 
+Code Files include:
+
+Programming commands essential for replicating our geometric morphometric and statistical analyses are here given. The main source code (Bazzi et al_Dryad_MasterRScript) is accompanied by separate R scripts (functions and analytical loops) which can be sourced directly provided the working directory has been set.
